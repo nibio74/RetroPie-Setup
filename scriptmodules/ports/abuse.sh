@@ -10,7 +10,7 @@
 #
 
 rp_module_id="abuse"
-rp_module_desc="Abuse"
+rp_module_desc="Abuse - port of run and gun game"
 rp_module_license="GPL https://raw.githubusercontent.com/Xenoveritas/abuse/master/COPYING"
 rp_module_section="exp"
 
